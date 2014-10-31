@@ -1,0 +1,29 @@
+body{
+    background-color: blue;
+    color: red;
+    
+}
+
+p {
+        margin:10px;
+
+
+
+            color: white; 
+            font-size: 36px;
+            font-family: arial;
+            text-align: center;
+
+}
+    .one{
+        width: 200px;
+    height: 200px;
+    background-color: yellow;
+        position: fixed;
+        bottom: 20px;
+        right: 100px;
+        border-radius: 100px;
+    }
+    .one:hover {
+        background-color: green;
+    }
