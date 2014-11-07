@@ -1,0 +1,30 @@
+
+.enjoy-css {
+  display: inline;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: absolute;
+  cursor: pointer;
+  padding: 10px 20px 18px;
+  border: 5px solid #018dc4;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  font: normal 68px/normal Tahoma, Geneva, sans-serif;
+}
+
+
+css
+.enjoy-css {
+  display: inline;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: absolute;
+  cursor: pointer;
+  padding: 10px 20px 18px;
+  border: 5px solid #018dc4;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  font: normal 68px/normal Tahoma, Geneva, sans-serif;
+}

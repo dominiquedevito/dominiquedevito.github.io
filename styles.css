@@ -1,29 +1,65 @@
-body{
-    background-color: blue;
-    color: red;
-    
+css
+.SCOM {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  overflow: hidden;
+  border: 13px solid;
+  font: normal 13px/30 "Lucida Console", Monaco, monospace;
+  color: rgba(255,255,255,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: #8c8c8c;
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
 }
 
-p {
-        margin:10px;
 
 
-
-            color: white; 
-            font-size: 36px;
-            font-family: arial;
-            text-align: center;
-
+css
+.enjoy-css {
+  display: inline;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: absolute;
+  cursor: pointer;
+  padding: 10px 20px 18px;
+  border: 5px solid #018dc4;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  font: normal 68px/normal Tahoma, Geneva, sans-serif;
 }
-    .one{
-        width: 200px;
-    height: 200px;
-    background-color: yellow;
-        position: fixed;
-        bottom: 20px;
-        right: 100px;
-        border-radius: 100px;
-    }
-    .one:hover {
-        background-color: green;
-    }
+
+
+
+#header {
+    background-color:#0101DF;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#81DAF5;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:#F5A9F2;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+
